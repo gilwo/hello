@@ -1,5 +1,5 @@
 package hello
 
 func Hello() string {
-	return "hello2"
+	return "hello3"
 }
